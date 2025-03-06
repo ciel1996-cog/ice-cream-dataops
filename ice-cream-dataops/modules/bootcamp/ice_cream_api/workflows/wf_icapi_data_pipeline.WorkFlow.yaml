@@ -1,0 +1,3 @@
+- name: wf_icapi_data_pipeline
+  externalId: wf_icapi_data_pipeline
+  description: Function to calculate OEE
